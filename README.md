@@ -20,6 +20,6 @@ O principal objetivo deste projeto é aprimorar as habilidades em:
 Navegue até a pasta `cenarios/` para encontrar as Histórias de Usuário e seus respectivos cenários. Cada arquivo Markdown dentro desta pasta descreve o comportamento esperado para uma funcionalidade específica do sistema, usando a estrutura "Dado-Quando-Então" do Gherkin.
 
 **Exemplo:**
-Para entender os cenários de cadastro de novos usuários, acesse `cenarios/cadastro.md` (ou o nome do arquivo que você criou para essa funcionalidade).
+Para entender os cenários de cadastro de novos usuários, acesse `cenarios/cadastro.md`
 
 ---
